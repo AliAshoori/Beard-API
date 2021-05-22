@@ -1,5 +1,5 @@
 # Beard (RESTful) APIs
-This repository is an attempt to practice clean coding and tacke challenges that could happen on everyday life of developers. The main  story is to deliver a few set of RESTful APIs with respect to RESTful designs and principles. The endpoints take care of placing orders and retrieving them from a database. To find out more about technical concept please read the following. (yet to be completed)
+This repository is an attempt to practice clean coding and tackle challenges that could happen on everyday life of developers. The main  story is to deliver a few set of RESTful APIs with respect to RESTful designs and principles. The endpoints take care of placing orders and retrieving them from a database. To find out more about technical concept please read the following. (yet to be completed)
 
 _The codebase is still under development and new changes may be pushed to the repository sooner or later, but, the inital intention was an attemp to demonstrate clean-codign and providing different content negotiations to produce the response with or without HATEOS. And hopefully, this has been achived to some extent._
 
